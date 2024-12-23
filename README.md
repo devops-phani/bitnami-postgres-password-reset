@@ -1,0 +1,1 @@
+# bitnami-postgres-password-reset
